@@ -1,3 +1,3 @@
 # test
-url=http://aaa.aaa
+url=http://bbbb.bbb
 password=11111111111
